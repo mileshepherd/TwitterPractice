@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TWEET</string>
+    <string name="title_activity_main">Searching Tweets</string>
+
+    <string name="hello_world">Searching </string>
+    <string name="action_settings">Settings</string>
+</resources>
